@@ -1,6 +1,14 @@
 FAFA'S ADVENTURE!
 
-Fafa is a baby dinosaur who gets lost one day in the woods while picking juicy strawberries, her favourite fruit, Oh no! But luckily, a hole in her basket caused her to drop a trail of strawberries behind her. Complete each platformer level in this thrilling adventure to follow her trail of strawberries and find her way back home, just in time for dinner.
+Fafa is a baby dinosaur who gets lost one day in the woods while picking juicy strawberries, her favourite fruit, Oh no! But luckily, a hole in her basket caused her to drop a trail of strawberries behind her. Complete each platformer level in this thrilling adventure to follow her trail of strawberries and find her way back home, just in time for dinner. 
+
+CONTROLS:
+
+Left/Right Arrow Keys - Move Fafa left and right
+
+Up Arrow Key - Jump
+
+
 
 <img width="1497" height="783" alt="Screenshot 2026-10-25 232825" src="https://github.com/user-attachments/assets/b61b11ef-dc3a-482a-8375-ea2d44c2593e" />
 
